@@ -4,9 +4,7 @@ Algoritmo que recibe un archivo de texto que contenga una matriz NxN cuyos campo
 
 **a b c**
 
-
 **d e f**
-
 
 **g h i**
 
