@@ -14,12 +14,18 @@ Y lo imprime en el orden de un caracol, es decir, el arreglo anterior quedaria d
 
 **a**
 
-
 **b**
+
 **c**
+
 **f**
+
 **i**
+
 **h**
+
 **g**
+
 **d**
+
 **e**
